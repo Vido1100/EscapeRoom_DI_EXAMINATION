@@ -1,5 +1,9 @@
+
 I dag har vi holdt fælles online tutorial om hvordan man koder og sådan lidt: https://www.youtube.com/watch?v=2WPCLda_erI
 
 Der er blevet udviklet et spil til eyetracker-delen og et cover til en logbog som indeholder en nøgle mm.
 
 Vi har brainstormet om hvad vi kan lave uden hardware og skrevet rapport.
+
+Derudover har vi lavet en 3D model af det lokale vores escaperoom kommer til at være, samt en FBI mappe der forklarer situationen for deltagerne
+
