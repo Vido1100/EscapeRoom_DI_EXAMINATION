@@ -7,7 +7,7 @@ For at beskytte befolkningen besluttede FBI i 1991 at erklære den kolde krig fo
 Da FBI i øjeblikket har travlt med andre sager, har de bedt jer om hjælp. 
 I den forbindelse har de gjort jer opmærksomme på at den kolde krig, i virkelighed, stadig er i gang!
 De har modtaget et tip om at en tidligere mistænkt cyber-terrorist, John A. Doe, har knækket koden til de russiske atommissiler.*
-<br/>
+<br/><br/>
 *Jeres mission er at bryde ind på John A. Does kollegieværelse og undersøge tippet om de mistænkelige hændelser og eventuelt sætte en stopper for en atomkrig.*
 
 **Bette tekst til dem der ikke fatter det her**<br/>
